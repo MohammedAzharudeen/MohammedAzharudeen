@@ -18,7 +18,7 @@
   <img align="left" alt="mugesh007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mugesh007&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
 
 
-<img align="center" alt="mugesh007's Language Used Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mugesh007&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be&layout=compact" />
+<img align="center" alt="MohammedAzharudeen's Language Used Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohammedAzharudeen&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be&layout=compact" />
 
 <br />
 
