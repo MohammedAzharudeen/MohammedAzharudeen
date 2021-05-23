@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music!
+- 📬 How to reach me -> mazharudeen77@gmail.com
 
 ### Spotify Playing 🎧
 
