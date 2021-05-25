@@ -12,7 +12,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MohammedAzharudeen Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate DEVELOPER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedAzharudeen&label=Profile%20views&color=0e75b6&style=flat" alt="MohammedAzharudeen" /> </p>
 
