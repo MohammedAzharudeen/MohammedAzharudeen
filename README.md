@@ -12,7 +12,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MohammedAzharudeen Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-[![paypal.me/AzhaR1609](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/AzhaR1609) - You can make donations via PayPal. It'll be helpful for my Studies!😇
+[![paypal.me/AzhaR1609](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/AzhaR1609) - You can make donations via PayPal. It'll be helpful for my Studies and for future projects!😇
 
 <h3 align="center">A passionate DEVELOPER from India</h3>
 
